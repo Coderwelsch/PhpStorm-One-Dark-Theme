@@ -8,3 +8,4 @@ Currently only these languages are supported:
 - JSON
 - Handlebars/Mustache
 - Javascript
+- Markdown
