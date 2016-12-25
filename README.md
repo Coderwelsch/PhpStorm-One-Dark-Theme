@@ -6,3 +6,4 @@ Currently only these languages are supported:
 - CSS
 - Sass/SCSS
 - JSON
+- Handlebars/Mustache
