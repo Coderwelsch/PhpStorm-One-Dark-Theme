@@ -9,3 +9,8 @@ Currently only these languages are supported:
 - Handlebars/Mustache
 - Javascript
 - Markdown
+
+## Examples
+![HTML](assets/html.png)
+![JSON](assets/json.png)
+![SASS/SCSS/CSS](assets/sass-scss-css.png)
